@@ -1,0 +1,29 @@
+.box
+{
+    background-color: #016DFA;
+    color: #fff;
+    font-size: 14px;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #fff;
+}
+
+.box .box
+{
+    background-color: #00E265; 
+    border: 1px solid #016DFA;
+}
+/*-------------------------------
+        PADDING FOR ROWS
+-------------------------------*/
+.padding
+{
+    padding: 20px 0 5px;
+}
+/*-------------------------------
+        EMPTY BOXES
+-------------------------------*/
+.empty
+{
+    padding: 20px;
+}
